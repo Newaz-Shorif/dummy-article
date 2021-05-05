@@ -1,7 +1,6 @@
 .icon-image{
     height: 18vh !important;
     width: 10vw !important;
-    border: none !important;
 }
 .icon{
     box-sizing: border-box;
@@ -64,9 +63,6 @@ grid-row: auto;
     margin-top: 0;
     padding-bottom: 3%;
 }
-.topic{
-    border: 4px solid red;
-
 }
 .figure{
     margin: 0;
