@@ -1,0 +1,102 @@
+.icon-image{
+    height: 18vh !important;
+    width: 10vw !important;
+    border: none !important;
+}
+.icon{
+    box-sizing: border-box;
+  background-image: linear-gradient(45deg, rgb(0100, 0, 0) , rgb(0, 225, 255));
+  display: flex;
+  justify-content: center;
+  height: 20vh;
+  width: 100%;
+}
+.nav {
+  display: flex;
+  background-color: rgb(31, 25, 25);
+border-radius: 4px ;
+  justify-content:space-evenly;
+  align-items: center;
+  height: 8vh;
+}
+.nav li a {
+    color: white;
+
+}
+.nav li {
+    display: inline-block;
+
+}
+.navigations {
+text-decoration: none;
+display: inline-block;
+
+
+}
+.aside {
+color: rgb(180, 164, 72);
+width: 25%;
+padding-bottom: 06%;
+display: block;
+text-align: center;
+float: left;
+background-image: radial-gradient( rgba(255, 72, 0, 0.925) , rgb(0, 0, 0));
+}
+.aside li  {
+    height: 900%;
+    display: block ;
+    margin: 17%;
+}
+.aside li a {
+    text-decoration: none;
+color: white;
+}
+.container{
+display: grid;
+grid-column: auto;
+grid-row: auto;
+}
+.section{
+    box-sizing: border-box;
+    width: 75%;
+    float: right;
+    padding: 1%;
+    margin-top: 0;
+    padding-bottom: 3%;
+}
+.topic{
+    border: 4px solid red;
+
+}
+.figure{
+    margin: 0;
+    display: inline-block;
+}
+
+img {
+    height: 20vh;
+    width: 7vw;
+
+}
+details{
+border: 2ps solid blueviolet;
+}
+
+details p{
+  background-color: aqua;  
+
+}
+article{
+border: 2px solid red;
+display:inline-block
+}
+.blog-img{
+border: 2px solid black;
+height: 50vh;
+width: 50vw;
+}
+.img-article{
+    display: flex;
+    justify-content:center ;
+    
+}
