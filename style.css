@@ -78,20 +78,14 @@ img {
     width: 7vw;
 
 }
-details{
-border: 2ps solid blueviolet;
-}
-
 details p{
   background-color: aqua;  
 
 }
 article{
-border: 2px solid red;
 display:inline-block
 }
 .blog-img{
-border: 2px solid black;
 height: 50vh;
 width: 50vw;
 }
